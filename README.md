@@ -1,46 +1,28 @@
-# Kaviraj Ravalji
+<h1 align="center">Hi 👋, I'm Kaviraj Ravalji</h1>
+<h3 align="center">An enthusiastic DevOps Engineer passionate about leveraging technology to streamline operations and enhance efficiency from India</h3>
+<img align="right"alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fshalb.com%2Fwp-content%2Fuploads%2F2019%2F11%2FDevops1.jpeg&tbnid=ZARnW7A-otYQtM&vet=12ahUKEwiW9vSXytaCAxX7S2wGHd8eCWMQMygGegQIARB6..i&imgrefurl=https%3A%2F%2Fshalb.com%2Fblog%2Fwhat-is-devops-and-where-is-it-applied%2F&docid=v5dpDgITnJ9JFM&w=2232&h=1458&q=devops%20images&ved=2ahUKEwiW9vSXytaCAxX7S2wGHd8eCWMQMygGegQIARB6"> 
 
-👋 Hello there! I'm Kaviraj Ravalji, an enthusiastic DevOps Engineer passionate about leveraging technology to streamline operations and enhance efficiency.
+- 🔭 I’m currently working on **Terraform/Ansible/Project**
 
-## About Me
+- 🌱 I’m currently learning **Terraform/Ansible/Docker**
 
-I'm a results-driven and detail-oriented IT professional with over 4 years of hands-on experience in system administration and network engineering. Proficient in managing complex cloud infrastructures, automating deployment processes, and ensuring high standards of performance and security.
+- 👯 I’m looking to collaborate on **opensource/Cloud/DevOps work**
 
-- 🌐 Location: Ahmedabad, India
-- 📧 Email: kavirajravalji002@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/kaviraj-ravalji/)
-- [GitHub](https://github.com/kavirajravalji0410)
+- 🤝 I’m looking for help with **to leverage or enhanced other tools**
 
-## Work Experience
+- 👨‍💻 All of my projects are available at [https://github.com/kavirajravalji0410](https://github.com/kavirajravalji0410)
 
-- Orchestrated internal infrastructure management using Sophos XG Firewall and UniFi devices.
-- Implemented CI/CD tools like Jenkins for automated software development processes.
-- Proficient in optimizing AWS services such as IAM, EC2, S3, CloudFront, and more.
+- 💬 Ask me about **AWS, CICD, Jenkins or anything related to DevOps**
 
-## Education
+- 📫 How to reach me **kavirajravalji002@gmail.com**
 
-- Master of Technology (Networking and Communication)
-- Bachelor of Engineering (Computer Science and Engineering)
-- Diploma (Computer Engineering)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kaviraj-ravalji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaviraj-ravalji" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
-## Skills
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kavirajravalji0410&show_icons=true&locale=en&layout=compact" alt="kavirajravalji0410" /></p>
 
-- AWS Services
-- CI/CD, Jenkins, Docker
-- Infrastructure as Code (Terraform, AWS CloudFormation)
-- Source Code Management (GitLab, GitHub)
-- Scripting (Bash, PowerShell)
-- Networking and Security (Firewalls, Office 365 Admin)
-- Database Management (MySQL, MS-SQL)
-- Operating Systems (Windows, Linux, MacOS)
-
-
-## Personal Skills
-
-- Punctuality
-- Willingness to Learn
-- Problem Solving
-- Self-Motivated
-
-Feel free to connect and explore my projects! 🚀
