@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaviraj Ravalji</h1>
-<h3 align="center">An enthusiastic DevOps Engineer passionate about leveraging technology to streamline operations and enhance efficiency from India</h3>
-<img align="right"alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fshalb.com%2Fwp-content%2Fuploads%2F2019%2F11%2FDevops1.jpeg&tbnid=ZARnW7A-otYQtM&vet=12ahUKEwiW9vSXytaCAxX7S2wGHd8eCWMQMygGegQIARB6..i&imgrefurl=https%3A%2F%2Fshalb.com%2Fblog%2Fwhat-is-devops-and-where-is-it-applied%2F&docid=v5dpDgITnJ9JFM&w=2232&h=1458&q=devops%20images&ved=2ahUKEwiW9vSXytaCAxX7S2wGHd8eCWMQMygGegQIARB6"> 
+<h3 align="center">An enthusiastic DevOps Engineer passionate about leveraging technology to streamline operations and enhance efficiency</h3>
+<img align="right"alt="Coding" width="400" src="https://www.codemotion.com/magazine/wp-content/uploads/2020/09/devops-1024x527.png"> 
 
 - 🔭 I’m currently working on **Terraform/Ansible/Project**
 
