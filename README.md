@@ -12,7 +12,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kavirajravalji0410](https://github.com/kavirajravalji0410)
 
-- 💬 Ask me about **AWS, CICD, Jenkins or anything related to DevOps**
+- 📑 Read my article at:- https://medium.com/@kavirajravalji2022
+
+- 💻 Find more about me at:- http://kavirajravalji.info/
+
+- 💬 Ask me about **AWS, CICD, Jenkins, or anything related to DevOps**
 
 - 📫 How to reach me **kavirajravalji002@gmail.com**
 
